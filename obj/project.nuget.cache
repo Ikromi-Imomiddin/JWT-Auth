@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "YVb9PrpN5/4yBJdh157Rl7NwDkXZaoNvCqm+UP6MuF+DV4AHuU3WsI8DwQKAc9xnGIoYVVULKkiWa4qJfxUa0g==",
+  "success": true,
+  "projectFilePath": "D:\\Soft-Club\\SoftClub Exams\\Siyovush Astonzoda JWT Exam\\Siyovush Astonzoda JWT Exam.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Aston\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "C:\\Users\\Aston\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\Aston\\.nuget\\packages\\swashbuckle.aspnetcore\\6.2.3\\swashbuckle.aspnetcore.6.2.3.nupkg.sha512",
+    "C:\\Users\\Aston\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.2.3\\swashbuckle.aspnetcore.swagger.6.2.3.nupkg.sha512",
+    "C:\\Users\\Aston\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.2.3\\swashbuckle.aspnetcore.swaggergen.6.2.3.nupkg.sha512",
+    "C:\\Users\\Aston\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.2.3\\swashbuckle.aspnetcore.swaggerui.6.2.3.nupkg.sha512"
+  ],
+  "logs": []
+}

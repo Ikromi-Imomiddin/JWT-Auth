@@ -1,0 +1,24 @@
+D:\Soft-Club\SoftClub Exams\Siyovush Astonzoda JWT Exam\Domain\bin\Debug\net6.0\Domain.deps.json
+D:\Soft-Club\SoftClub Exams\Siyovush Astonzoda JWT Exam\Domain\bin\Debug\net6.0\Domain.dll
+D:\Soft-Club\SoftClub Exams\Siyovush Astonzoda JWT Exam\Domain\bin\Debug\net6.0\Domain.pdb
+D:\Soft-Club\SoftClub Exams\Siyovush Astonzoda JWT Exam\Domain\obj\Debug\net6.0\Domain.csproj.AssemblyReference.cache
+D:\Soft-Club\SoftClub Exams\Siyovush Astonzoda JWT Exam\Domain\obj\Debug\net6.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\Soft-Club\SoftClub Exams\Siyovush Astonzoda JWT Exam\Domain\obj\Debug\net6.0\Domain.AssemblyInfoInputs.cache
+D:\Soft-Club\SoftClub Exams\Siyovush Astonzoda JWT Exam\Domain\obj\Debug\net6.0\Domain.AssemblyInfo.cs
+D:\Soft-Club\SoftClub Exams\Siyovush Astonzoda JWT Exam\Domain\obj\Debug\net6.0\Domain.csproj.CoreCompileInputs.cache
+D:\Soft-Club\SoftClub Exams\Siyovush Astonzoda JWT Exam\Domain\obj\Debug\net6.0\Domain.dll
+D:\Soft-Club\SoftClub Exams\Siyovush Astonzoda JWT Exam\Domain\obj\Debug\net6.0\refint\Domain.dll
+D:\Soft-Club\SoftClub Exams\Siyovush Astonzoda JWT Exam\Domain\obj\Debug\net6.0\Domain.pdb
+D:\Soft-Club\SoftClub Exams\Siyovush Astonzoda JWT Exam\Domain\obj\Debug\net6.0\ref\Domain.dll
+C:\Users\ASUS\Desktop\JWT-Auth-main\Domain\bin\Debug\net6.0\Domain.deps.json
+C:\Users\ASUS\Desktop\JWT-Auth-main\Domain\bin\Debug\net6.0\Domain.dll
+C:\Users\ASUS\Desktop\JWT-Auth-main\Domain\bin\Debug\net6.0\Domain.pdb
+C:\Users\ASUS\Desktop\JWT-Auth-main\Domain\obj\Debug\net6.0\Domain.csproj.AssemblyReference.cache
+C:\Users\ASUS\Desktop\JWT-Auth-main\Domain\obj\Debug\net6.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\Desktop\JWT-Auth-main\Domain\obj\Debug\net6.0\Domain.AssemblyInfoInputs.cache
+C:\Users\ASUS\Desktop\JWT-Auth-main\Domain\obj\Debug\net6.0\Domain.AssemblyInfo.cs
+C:\Users\ASUS\Desktop\JWT-Auth-main\Domain\obj\Debug\net6.0\Domain.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\JWT-Auth-main\Domain\obj\Debug\net6.0\Domain.dll
+C:\Users\ASUS\Desktop\JWT-Auth-main\Domain\obj\Debug\net6.0\refint\Domain.dll
+C:\Users\ASUS\Desktop\JWT-Auth-main\Domain\obj\Debug\net6.0\Domain.pdb
+C:\Users\ASUS\Desktop\JWT-Auth-main\Domain\obj\Debug\net6.0\ref\Domain.dll
